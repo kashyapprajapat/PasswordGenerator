@@ -27,24 +27,6 @@ Below are some screenshots of the PasswordGenerator 🔐 app:
 
 
 
-### Currency Convert Screen
-![Currency Convert](./DemoImages/CurrancyConvert.png)
-
-
-
-
-### Negative Currency Error
-![Negative Currency](./DemoImages/NagativeCurrancy.png)
-
-
-
-
-### Error Check Screen
-![Error Check](./DemoImages/ErrorCheck.png)
-
-
-
-
 
 ## Steps for Developers
 
@@ -54,13 +36,13 @@ If you are a developer and want to fork this repository, follow the steps below:
 
 2. **Clone the Repository**: Clone the forked repository to your local machine using the following command:
     ```sh
-    git clone https://github.com/your-username/CurrencyConverter.git
+    git clone https://github.com/your-username/PasswordGenerator.git
     ```
     Replace `your-username` with your GitHub username.
 
 3. **Navigate to the Project Directory**:
     ```sh
-    cd CurrencyConverter
+    cd PasswordGenerator
     ```
 
 4. **Install Dependencies**:
